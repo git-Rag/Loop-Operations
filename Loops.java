@@ -58,11 +58,11 @@ public class Loops {
 
         // In a less complex way for all the number tables
 
-        Scanner sc = new Scanner(System.in);
-        int table = sc.nextInt();
-        for (int i = 1; i < 11; i++){
-            System.out.println(table*i);
-        }
+//        Scanner sc = new Scanner(System.in);
+//        int table = sc.nextInt();
+//        for (int i = 1; i < 11; i++){
+//            System.out.println(table*i);
+//        }
 
     }
 }
